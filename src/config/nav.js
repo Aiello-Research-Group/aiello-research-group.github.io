@@ -4,11 +4,11 @@ export const nav = [
 		slug: '/',
 	},
 	{
-		title: 'Blog',
+		title: 'Research',
 		slug: '/blog',
 	},
 	{
-		title: 'About',
+		title: 'Team',
 		slug: '/company/about',
 	},
 	{
